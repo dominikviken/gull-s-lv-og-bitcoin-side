@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 2%;
+    font-size: 150%;
+}
+
+h1 {
+    color: white;
+    font-size: 200%;
+}
+
+#BTC {
+    color: white;
+}
+#XAU {
+    color: gold;
+}
+#XAG {
+    color: rgb(142, 141, 141);
+}
